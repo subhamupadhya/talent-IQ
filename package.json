@@ -1,0 +1,21 @@
+{
+  "name": "talent-iq-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "cd backend && npm start"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhamupadhya/talent-IQ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhamupadhya/talent-IQ/issues"
+  },
+  "homepage": "https://github.com/subhamupadhya/talent-IQ#readme",
+  "description": ""
+}
