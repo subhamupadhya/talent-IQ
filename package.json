@@ -19,6 +19,7 @@
   "homepage": "https://github.com/subhamupadhya/talent-IQ#readme",
   "description": "",
   "dependencies": {
-    "@clerk/express": "^1.7.41"
+    "@clerk/express": "^1.7.41",
+    "@stream-io/node-sdk": "^0.7.12"
   }
 }
